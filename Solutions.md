@@ -15,7 +15,8 @@
 4. Implemented IEmployeeController to create/implement all the endpoints - EmployeeController class
 5. Added a postman collection for all the 7 endpoints - postman/EmployeeCollection.postman_collection.json
 6. Added happy path unit tests for all the classes.
-7. Added Loggers
+7. Added happy path integration tests for all the endpoints.
+8. Added Loggers
 
 #### Things to Do
 
