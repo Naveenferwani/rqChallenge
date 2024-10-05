@@ -1,0 +1,10 @@
+{
+  "status": "success",
+  "data": {
+    "id": 1,
+    "employee_name": "Joe Bloggs",
+    "employee_salary": 136090,
+    "employee_age": 41,
+    "profile_image": "Test10.png"
+  }
+}
